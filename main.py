@@ -2,4 +2,4 @@
 drukāsim "Hello world!"
 """
 print("Labdien!")
-print("Lai dzīvo mājas darbi līdz Jāņiem!!!")
+print("Vai ir mums konflikts?")
