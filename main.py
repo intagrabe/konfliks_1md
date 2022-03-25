@@ -1,4 +1,4 @@
 """Sākums kā vienmēr:
 drukāsim "Hello world!"
 """
-print("Labdien! Lai visiem jauka diena!")
+print("Labdien! Lai visiem jauka diena!!!")
